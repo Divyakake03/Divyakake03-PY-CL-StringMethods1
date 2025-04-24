@@ -1,5 +1,5 @@
 import unittest
-from src.main.lab import (
+from main.lab import (
     get_string_length,
     get_character_at_index,
     get_index_given_character,
